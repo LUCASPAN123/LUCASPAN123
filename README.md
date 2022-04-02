@@ -9,8 +9,8 @@
 
  <div align="center">
   <a href="https://github.com/Mateus-Batista12">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LUCASPAN12312&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUCASPAN12312&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LUCASPAN123-12&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUCASPAN123-12&layout=compact&langs_count=7&theme=dracula"/>
 </div
 
 
