@@ -1,9 +1,8 @@
-### Olá !👋
 
 
- 🤔 Estou em busca de novas aventuras
 
 <div>
+ <p align="center">🤔 Estou em busca de novas aventuras </p>
   <p align="center">Olá! Tudo bem? 😃️</p>
   <p align="center">Meu nome é <a href="https://www.linkedin.com/in/lucas-pandolpho-cavalcante-69827a1a9/"><i>Lucas Pandolpho</i></a> e eu estudo Desenvolvimento Web na <a href="https://programador.onebitcode.com/?ref=O64960697R"><i>OneBitCode</i></a>. 😃️</p>
 
