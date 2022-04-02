@@ -7,6 +7,7 @@
   <p align="center">Olá! Tudo bem? 😃️</p>
   <p align="center">Meu nome é <a href="https://www.linkedin.com/in/lucas-pandolpho-cavalcante-69827a1a9/"><i>Lucas Pandolpho</i></a> e eu estudo Desenvolvimento Web na <a href="https://programador.onebitcode.com/?ref=O64960697R"><i>OneBitCode</i></a>. 😃️</p>
 
+
  <div align="center">
   <a href="https://github.com/Mateus-Batista12">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LUCASPAN123&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
