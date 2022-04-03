@@ -14,8 +14,6 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUCASPAN123&layout=compact&langs_count=7&theme=dracula"/>
 </div
 
- <style>
-   </style>
 
      <div align="center" valign="top">
          <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
